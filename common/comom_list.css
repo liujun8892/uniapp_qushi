@@ -1,0 +1,128 @@
+.attention {
+		/* margin-right: 23rpx; */
+		padding: 0 10rpx;
+		background-color: #F4F4F4;
+	}
+
+	.attention text {
+		font-size: 26rpx;
+		color: #444444;
+	}
+
+	.delete {
+		font-size: 28rpx;
+		color: #D5D5D5;
+	}
+
+	.commonList {
+		padding: 20rpx;
+	}
+
+	.commonList .userpic image {
+		width: 90rpx;
+		border-radius: 50%;
+		margin-right: 12rpx;
+	}
+
+	.username {
+		margin-right: 10rpx;
+	}
+
+	.username>text {
+		font-size: 28rpx;
+		color: #909090;
+	}
+
+	.content .header {
+		/* height: 50rpx; */
+	}
+
+	.content {
+		flex: 1;
+		border-bottom: 1rpx solid #C0C0C0;
+	}
+
+	.flex_colum {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.usersex {
+		height: 32rpx;
+		background-color: #44B3FF;
+		padding: 0 10rpx;
+		border-radius: 32rpx;
+		color: #FFFFFF;
+		font-size: 24rpx;
+
+	}
+
+	.title text {
+		font-size: 32rpx;
+	}
+
+	.main {
+		position: relative;
+		margin: 15rpx 0;
+	}
+
+	.main image {
+		width: 100%;
+		border-radius: 20rpx;
+	}
+
+	.movie_play_controls {
+		position: absolute;
+		font-size: 130rpx;
+		color: #FFFFFF;
+	}
+
+	.movie_play_count {
+		position: absolute;
+		right: 10rpx;
+		bottom: 8rpx;
+		height: 40rpx;
+		color: #FFFFFF;
+		background-color: rgba(51, 51, 51, 0.62);
+		padding: 0 15rpx;
+		border-radius: 40rpx;
+	}
+
+	.footer {
+		color: #B8B8B8;
+		margin-bottom: 15rpx;
+	}
+
+	.footer .left text:nth-child(1) {
+		margin-right: 7rpx;
+	}
+
+	.item {
+		width: 80rpx;
+	}
+
+	.item .icon {
+		font-size: 26rpx;
+		margin-right: 5rpx;
+	}
+
+	.icon-ccdbaa {
+		margin-top: -6rpx !important;
+	}
+
+	.picArticle {
+		flex: 1;
+		background-color: #F7F7F7;
+		padding: 10rpx 20rpx 10rpx 5rpx;
+		color: #454545;
+		border-radius: 10rpx;
+	}
+
+	.picArticle image {
+		width: 300rpx;
+		margin-right: 30rpx;
+	}
+
+	.nvBgc {
+		background-color: pink;
+	}
